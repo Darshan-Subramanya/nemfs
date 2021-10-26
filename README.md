@@ -11,3 +11,7 @@ installing nodejs
            connecting to mongo db
            dotenv
            finally published to github
+           
+To install 
+1. clone the project
+2. In Terminal - npm install 
